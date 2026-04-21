@@ -1,0 +1,16 @@
+"Interner Schlüssel";"Kategorie";"Kategoriepfad";"URL-Pfad";"Beschreibung";"Sortiernummer";"Title-Tag";"Meta-Description";"Meta-Keywords";"Bild";"Oberkategorie";"Kategorierabatt Endkunden:";"Kategorierabatt Händler:";"Kategorierabatt Kasse 01 Binnewies Test -Endkunden:";"Kategorierabatt Kasse 01 Binnewies Test -Händler:";"Kategorierabatt Sendlinger Büroshop Lager-Endkunden:";"Kategorierabatt Sendlinger Büroshop Lager-Händler:";"Kasse 01 Binnewies Test  aktiv";"Sendlinger Büroshop Lager aktiv";"Sichtbarkeit Kasse 01 Binnewies Test -Endkunden:";"Sichtbarkeit Kasse 01 Binnewies Test -Händler:";"Sichtbarkeit Sendlinger Büroshop Lager-Endkunden:";"Sichtbarkeit Sendlinger Büroshop Lager-Händler:";
+"1";"01 Getränke";;;;"1000";;;;;;;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"16";"1.1 Softdrinks";"01 Getränke - 1.1 Softdrinks ";;;"1100";;;;;"01 Getränke";;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"17";"1.2 Kaffee & Milchprodukte";"01 Getränke - 1.2 Kaffee & Milchprodukte ";;;"1200";;;;;"01 Getränke";;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"3";"02 Snacks";;;;"2000";;;;;;;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"11";"2.1 Snacks Süß";"02 Snacks - 2.1 Snacks Süß ";;;"2100";;;;;"02 Snacks";;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"12";"2.2 Snacks Salzig";"02 Snacks - 2.2 Snacks Salzig ";;;"2200";;;;;"02 Snacks";;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"4";"03 Hygiene";;;;"3000";;;;;;;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"5";"04 Allrounder";;;;"4000";;;;;;;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"6";"05 Obst";;;;"5000";;;;;;;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"7";"06 Essen";;;;"6000";;;;;;;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"10";"6.1 Zutaten";"06 Essen - 6.1 Zutaten ";;;"6100";;;;;"06 Essen";;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"13";"6.2 Backwaren";"06 Essen - 6.2 Backwaren ";;;"6200";;;;;"06 Essen";;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"14";"6.3 Fertigessen";"06 Essen - 6.3 Fertigessen ";;;"6300";;;;;"06 Essen";;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"15";"6.4 Milchprodukte";"06 Essen - 6.4 Milchprodukte ";;;"6400";;;;;"06 Essen";;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
+"9";"07 Eis";;;;"7000";;;;;;;;;;;;"Nein";"Nein";"Y";"Y";"Y";"Y";
